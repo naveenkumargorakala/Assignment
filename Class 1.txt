@@ -4,3 +4,4 @@ for i in n:
         break
     else:
         print("prime")
+        print(n+"is prime") 
